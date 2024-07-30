@@ -32,8 +32,8 @@ Stage :	Stage of the lead who is in the opportunity phase . Stage can be assigne
 
 # Result
 ![image](https://github.com/user-attachments/assets/73c01fcf-6950-4e4e-8104-e7c813e41456) <br/>
-![image](https://github.com/user-attachments/assets/fdc90415-4d88-4aeb-8f4a-4aaff6027d04)  <br/>
-![image](https://github.com/user-attachments/assets/cdc8f98c-4006-47b6-92c0-c958e93359ea)  <br/>
+![image](https://github.com/user-attachments/assets/fdc90415-4d88-4aeb-8f4a-4aaff6027d04) <br/>
+![image](https://github.com/user-attachments/assets/cdc8f98c-4006-47b6-92c0-c958e93359ea) <br/>
 
 # Insights and Recommendations
 > [!IMPORTANT]
@@ -55,21 +55,22 @@ The average deal value and number of closed deals fluctuate significantly from m
 
 **Sales pipeline** :
 
-Overall, sales pipeline shows good conversion rate between stages, except: Opportunity to Customer: There is only 348 leads transfer from Opportunity to Customer stage (CVR = 28.6%), suggesting room for improvements.
-Customer to Churned Customer: High churn rate indicates potential issues with customer satisfaction, product fit or ongoing support.
-Action: Regularly engage with customers through follow-ups and satisfaction surveys to identify and address issues 
+- Overall, sales pipeline shows good conversion rate between stages, except: <br/>
+Opportunity to Customer: There is only 348 leads transfer from Opportunity to Customer stage (CVR = 28.6%), suggesting room for improvements. <br/>
+Customer to Churned Customer: High churn rate indicates potential issues with customer satisfaction, product fit or ongoing support. <br/>
+Action: Regularly engage with customers through follow-ups and satisfaction surveys to identify and address issues. <br/>
 
-- Detailed Opportunity Stage:
-Opened to Initial Contact: Only a third of opened opportunities move to initial contact. 
-Action: Deploy automated outreach tools to ensure timely follow-ups with all new opportunities.
-Proposal sent to Won: Although more than half of proposal sent converts to win, there is still room for optimization.
-Action: Analyze lost proposal to identify common objections and refine proposal strategies accordingly.
+- Detailed Opportunity Stage: <br/>
+Opened to Initial Contact: Only a third of opened opportunities move to initial contact. <br/>
+Action: Deploy automated outreach tools to ensure timely follow-ups with all new opportunities. <br/>
+Proposal sent to Won: Although more than half of proposal sent converts to win, there is still room for optimization. <br/>
+Action: Analyze lost proposal to identify common objections and refine proposal strategies accordingly. <br/>
 
-- Sales Agent:
-Laura Thomson is the best sales agent with highest deal value and average churn rate. 
-David Wilson has short sales cycle but low won rate and low deal value. Need to improve conversion techniques and increase  deal size by targeting higher value leads.
-Emily Johnson achieved high won rate but high churn rate, suggesting potential issues in customer satisfaction. Focus to post-sales support to reduce churn.
-Jessica Martinez has high deal value and good won rate but longer sales cycle. Streamline the sales process to shorten the sales cycle.
+- Sales Agent: <br/>
+Laura Thomson is the best sales agent with highest deal value and average churn rate. <br/>
+David Wilson has short sales cycle but low won rate and low deal value. Need to improve conversion techniques and increase  deal size by targeting higher value leads. <br/>
+Emily Johnson achieved high won rate but high churn rate, suggesting potential issues in customer satisfaction. Focus to post-sales support to reduce churn. <br/>
+Jessica Martinez has high deal value and good won rate but longer sales cycle. Streamline the sales process to shorten the sales cycle. <br/>
 
 
 
