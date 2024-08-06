@@ -56,7 +56,7 @@ The average deal value and number of closed deals fluctuate significantly from m
 **Sales pipeline** :
 
 - Overall, sales pipeline shows good conversion rate between stages, except: <br/>
-Opportunity to Customer: There is only 348 leads transfer from Opportunity to Customer stage (CVR = 28.6%), suggesting room for improvements. <br/>
+Opportunity to Customer: Only 348 leads transfered from Opportunity to Customer stage (CVR = 28.6%), suggesting room for improvements. <br/>
 Customer to Churned Customer: High churn rate indicates potential issues with customer satisfaction, product fit or ongoing support. <br/>
 Action: Regularly engage with customers through follow-ups and satisfaction surveys to identify and address issues. <br/>
 
